@@ -1,5 +1,6 @@
 # css-grid-description
-**CSS grid Terminology
+**CSS grid Terminology**
+
 Grid container
 Grid Item
 Grid line
